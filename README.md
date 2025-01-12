@@ -65,11 +65,11 @@ type Node = {
 };
 
 interface RequestBody {
-	files: Node[];
-	title?: string;
-	fontSize?: number;
-	height?: number;
-	width?: number;
+  files: Node[];
+  title?: string;
+  fontSize?: number;
+  height?: number;
+  width?: number;
 }
 ```
 
